@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Container from '../shared/Container'
 import logo from '../../assets/icon.svg'
 import { navItems } from './Navbar'
